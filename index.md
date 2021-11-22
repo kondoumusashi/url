@@ -108,3 +108,4 @@
 ##### [太鼓ウェブ](https://taiko.bui.pm/)
 ##### [星のカービィ全話](https://www.youtube.com/playlist?list=PL3dEBp1M8Ury5o1tOjab06vymI4ZJnRop)
 ##### [みっちりねこマーチ](https://www.youtube.com/watch?v=lAIGb1lfpBw)
+##### [Slideshare Downloader](https://slidesharedownloader.ngelmat.net/)
