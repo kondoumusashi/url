@@ -1,4 +1,3 @@
-# [太鼓ウェブ](https://taiko.bui.pm/)
 # 参考資料
 
 #### [プログラムを高速化する話](https://www.slideshare.net/KMC_JP/ss-45855264)
@@ -39,5 +38,7 @@
     この新しいインターフェイスを使用すると、アプリケーションの目的をより適切に説明できます。
     これにより、OpenGLやDirect3Dなどの既存のAPIと比較して、パフォーマンスが向上し、ドライバーの動作が驚くほど少なくなります。 
     Vulkanの背後にある考え方は、Direct3D 12やMetalの考え方と似ていますが、Vulkanには完全にクロスプラットフォームであるという利点があり、Windows、Linux、Android向けに同時に開発できます。
-    
 
+# [太鼓ウェブ](https://taiko.bui.pm/)
+
+# [星のカービィ全話](https://www.youtube.com/playlist?list=PL3dEBp1M8Ury5o1tOjab06vymI4ZJnRop)
