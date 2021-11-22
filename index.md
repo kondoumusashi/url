@@ -1,4 +1,4 @@
-# 参考資料
+# [参考資料](https://taiko.bui.pm/)
 
 * 目次
     1. [DirectX11](#1_)
@@ -80,24 +80,6 @@ Vulkanの背後にある考え方は、Direct3D 12やMetalの考え方と似て�
 
 #### [GAME CREATORS CONFERENCE](https://www.youtube.com/channel/UC09h5BXuH8d-biTMzDcj0Rg/featured)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
-
 <br>
 <br>
 <br>
@@ -141,7 +123,6 @@ Vulkanの背後にある考え方は、Direct3D 12やMetalの考え方と似て�
 
 ---
 
-##### [太鼓ウェブ](https://taiko.bui.pm/)
 ##### [星のカービィ全話](https://www.youtube.com/playlist?list=PL3dEBp1M8Ury5o1tOjab06vymI4ZJnRop)
 ##### [みっちりねこマーチ](https://www.youtube.com/watch?v=lAIGb1lfpBw)
 ##### [Slideshare Downloader](https://slidesharedownloader.ngelmat.net/)
