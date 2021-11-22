@@ -3,7 +3,7 @@
 #### [プログラムを高速化する話](https://www.slideshare.net/KMC_JP/ss-45855264)
     プログラムを高速化するためのテクニックをまとめました。京大 マイコンクラブ
 
-#### [プログラムを高速化する話Ⅱ 〜GPGPU編〜 ](https://www.slideshare.net/KMC_JP/ss-45855264)
+#### [プログラムを高速化する話Ⅱ 〜GPGPU編〜 ](https://www.slideshare.net/KMC_JP/gpgpu-91122680)
     GPUを利用して汎用演算を行う技術であるGPGPUを用いて、プログラムを高速化する技法についてまとめました。
     高速化の具体例も適宜用いて解説しています。 
 
