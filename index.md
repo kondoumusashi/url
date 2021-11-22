@@ -39,6 +39,10 @@
     これにより、OpenGLやDirect3Dなどの既存のAPIと比較して、パフォーマンスが向上し、ドライバーの動作が驚くほど少なくなります。 
     Vulkanの背後にある考え方は、Direct3D 12やMetalの考え方と似ていますが、Vulkanには完全にクロスプラットフォームであるという利点があり、Windows、Linux、Android向けに同時に開発できます。
 
+#### [CEDECチャンネルYouTube版](https://www.youtube.com/channel/UCmHaPXvwn9_4pMNAV6ewgoA)
+
+#### [GAME CREATORS CONFERENCE](https://www.youtube.com/channel/UC09h5BXuH8d-biTMzDcj0Rg/featured)
+
 <br>
 <br>
 <br>
