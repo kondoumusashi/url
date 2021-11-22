@@ -32,7 +32,7 @@
     前回に引き続き川瀬式グレアエフェクトを勉強してみようと思います。
     今回は，レンズゴーストを実装してみます。    
 
-#### [Vulkan Tutorial  ](https://vulkan-tutorial.com/Introduction)
+#### [Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)
     このチュートリアルでは、VulkanグラフィックスとコンピューティングAPIの使用の基本について説明します。
     Vulkanは、Khronosグループ（OpenGLで知られる）による新しいAPIであり、最新のグラフィックカードのより優れた抽象化を提供します。
     この新しいインターフェイスを使用すると、アプリケーションの目的をより適切に説明できます。
