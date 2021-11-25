@@ -126,3 +126,4 @@ Vulkanの背後にある考え方は、Direct3D 12やMetalの考え方と似て�
 ##### [星のカービィ全話](https://www.youtube.com/playlist?list=PL3dEBp1M8Ury5o1tOjab06vymI4ZJnRop)
 ##### [みっちりねこマーチ](https://www.youtube.com/watch?v=lAIGb1lfpBw)
 ##### [Slideshare Downloader](https://slidesharedownloader.ngelmat.net/)
+##### [ 日曜劇場「DCU」New！2022年1月スタート](http://abehiroshi.la.coocan.jp/)
